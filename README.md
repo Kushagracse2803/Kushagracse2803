@@ -91,8 +91,7 @@ A machine learning model to predict house prices based on various features.
 ## 📊 Most Used Languages  
 
 🎯 **My Top Programming Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagracse2803&layout=compact&theme=tokyonight&langs_count=8&hide=css,html)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagracse2803&layout=compact&theme=tokyonight&langs_count=8&hide=css,html&include_langs=Java,Python,C)
 
 ---
 
