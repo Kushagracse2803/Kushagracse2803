@@ -7,7 +7,7 @@ I am an enthusiastic Full-Stack Developer passionate about innovative technologi
 ## 🌟 About Me
 - *🎓 Education:* Bachelor of Technology (CSE), Pranveer Singh Institute of Technology (2022 - 2026) | CGPA: 8/10 (Till 5th Semester)
 - *📍 Location:* Kanpur, Uttar Pradesh
-- *👋 Contact:* [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muskangupta7414@gmail.com)
+- *👋 Contact:* [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagracse.techai@gmail.com)
 - *🌱 Currently Learning*: Advanced backend architectures and optimizing database performance.  
 - *🔍 Looking for: Exciting **internship opportunities* in software development.  
 - *💡 Fun Fact: I have won multiple **drama, dance, and debate competitions*!  
@@ -47,11 +47,11 @@ I am an enthusiastic Full-Stack Developer passionate about innovative technologi
 An online marketplace that connects local artisans with customers seeking unique, handcrafted goods. the platform provides a seamless, fast, and responsive experience, empowering artisans to showcase and sell their creations.
 - *Technologies Used:* Node.js, Express.js, MongoDB, Next.js, Tailwind CSS
   
-### [Authentication System](https://github.com/muskaan-gupta/Authenticator-System)
+### [Authentication System](https://github.com/Kushagracse2803/Authenticator-System)
 A secure backend solution designed to manage user authentication and access control efficiently. It allows users to register, log in, and reset passwords while ensuring data security through password hashing with bcrypt.
 - *Technologies Used:* Node.js, Express.js, MongoDB, JWT, bcrypt
 
-### [Flashcard Learning Tool](https://github.com/muskaan-gupta/Flashcard-Learning-Tool)
+### [Flashcard Learning Tool](https://github.com/Kushagracse2803/Flashcard-Learning-Tool)
 An interactive study tool that allows users to review and memorize information with digital flashcards.
 - *Technologies Used:* Node.js, Express.js, MongoDB, React.js, Tailwind CSS
 
