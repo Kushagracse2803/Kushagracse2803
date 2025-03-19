@@ -73,14 +73,12 @@ A machine learning model to predict house prices based on various features.
 - *5-star ratings* in Problem-Solving and Java on HackerRank. [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/CSAI_1520095)
 
 
----
 ## 📜 Certifications
-- [*Internship Completion Certification*]([https://drive.google.com/file/d/1LkECIfEHxPiJPUV3m9QWElU5L4Yf05Mn/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1-55XjwMwP_QG2yGygYwK_HS1bNlpG9LK))
-- [*Object Oriented Programming using Python*]([YOUR_OOPS_CERTIFICATE_LINK](https://drive.google.com/file/d/1rlPEhGVQWgXm__Ckj-RI3ejXPIUUF5BB/view?usp=drive_link))
-- [*Python Infosys Certification (Part 1)*]([YOUR_INFOSYS_PART1_LINK](https://drive.google.com/file/d/1xgV8GKB1qinWrRbCxY08PzIAh0VwbvOB/view?usp=drive_link))
-- [*Python Infosys Certification (Part 2)*]([YOUR_INFOSYS_PART2_LINK](https://drive.google.com/file/d/1OsMOlwCx7KcjOAH7IiaKyiIOLthErD9r/view?usp=drive_link))
-- ![Udemy Python Certificate]([YOUR_UDEMY_CERTIFICATE_LINK](https://drive.google.com/file/d/1BJHDyrK-V80lgDlnFu1MJrOXOYoXwgei/view?usp=drive_link))
-
+- [*Internship Completion Certification*](https://drive.google.com/drive/u/0/folders/1-55XjwMwP_QG2yGygYwK_HS1bNlpG9LK)
+- [*Object Oriented Programming using Python*](https://drive.google.com/file/d/1rlPEhGVQWgXm__Ckj-RI3ejXPIUUF5BB/view?usp=drive_link)
+- [*Python Infosys Certification (Part 1)*](https://drive.google.com/file/d/1xgV8GKB1qinWrRbCxY08PzIAh0VwbvOB/view?usp=drive_link)
+- [*Python Infosys Certification (Part 2)*](https://drive.google.com/file/d/1OsMOlwCx7KcjOAH7IiaKyiIOLthErD9r/view?usp=drive_link)
+- ![Udemy Python Certificate](https://drive.google.com/file/d/1BJHDyrK-V80lgDlnFu1MJrOXOYoXwgei/view?usp=drive_link)
 
 ---
 
