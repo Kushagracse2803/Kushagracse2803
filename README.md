@@ -88,8 +88,10 @@ A machine learning model to predict house prices based on various features.
 ## 📊 GitHub Stats  
 
 [![Kushagracse2803's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushagracse2803)](https://github.com/Kushagracse2803)
+## 📊 Most Used Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagracse2803&layout=compact&theme=radical)  
+🎯 **My Top Programming Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagracse2803&layout=compact&theme=tokyonight&langs_count=8&hide=css,html)  
 
 
 ---
