@@ -96,7 +96,6 @@ A machine learning model to predict house prices based on various features.
 ---
 
 ## 🌐 Connect with Me
-<a href="https://porfolio-lake-three.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white" height="50">
 </a>
 
