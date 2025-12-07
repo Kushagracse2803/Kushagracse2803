@@ -1,104 +1,80 @@
 # Hello, I'm Kushagra Tiwari! 👋
 
-I am an enthusiastic Full-Stack Developer passionate about innovative technologies and solving real-world problems through impactful projects.
+[cite_start]I am an enthusiastic **LLM/ML Engineer** specializing in end-to-end Python machine learning pipelines (PyTorch, TensorFlow, Scikit-learn)[cite: 6]. [cite_start]I focus on developing, optimizing, and deploying production-ready models via Flask/REST APIs[cite: 6, 7]. [cite_start]I am the creator of a custom GPT-style architecture, the Elysium LLM, and multi-LLM routing systems using Hugging Face and LangChain[cite: 8].
 
 ---
 
 ## 🌟 About Me
-- *🎓 Education:* Bachelor of Technology (CSE), Pranveer Singh Institute of Technology (2022 - 2026) | CGPA: 8/10 (Till 5th Semester)
-- *📍 Location:* Kanpur, Uttar Pradesh
-- *👋 Contact:* [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagracse.techai@gmail.com)
-- *🌱 Currently Learning*: Advanced backend architectures and optimizing database performance.  
-- *🔍 Looking for: Exciting **internship opportunities* in software development.  
-- *💡 Fun Fact: I have won multiple **drama, dance, and debate competitions*!  
+* **🎓 Education:** Bachelor of Technology in **Computer Science and Engineering (AI)**, Pranveer Singh Institute of Technology, Kanpur (2022 – 2026) | [cite_start]CGPA: 7.4/10.0 [cite: 10]
+* [cite_start]**📍 Contact:** 📞 +91-8127328573 [cite: 1] | [cite_start]📧 kushagracse.techai@gmail.com [cite: 4]
+* [cite_start]**🌱 Core Focus:** Generative AI, Custom Model Architectures, Multi-LLM Systems, and RAG Pipelines[cite: 51].
+* [cite_start]**🔍 Looking for:** Exciting **internship opportunities** in AI Product Development[cite: 51].
+* [cite_start]**💡 Fun Fact:** Solved over 250+ coding questions on LeetCode in Java and hold a 5-star rating in Data Structures & Algorithms on HackerRank[cite: 57, 61, 62].
 ---
 
-## 🚀 Skills
+## 💼 Professional Experience
 
-### Programming Languages
-<p>  
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">   
-  
-</p>  
+### XpertCode (Remote)
+**Artificial Intelligence Intern** | [cite_start]July 2025 – Nov 2025 [cite: 12, 13, 14]
 
-
-### Libraries/Frameworks
-<p>  
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">  
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Tkinter-ffcc00?style=for-the-badge&logo=python&logoColor=black">  
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=opencv&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black">  
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">  
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">  
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
-</p>  
-
-
-### Coursework
-- *Data Structures and Algorithms (DSA)*
-- *Database Maganament System (DBMS)*
-- *Operating System (OS)*
-- -*Theory of Automata*
-- *Software Engineering *
----
-## 💻 Projects
-
-### [ATTENDEASE](https://github.com/yourusername/Attendease)
-A facial recognition-based attendance system that automates attendance logging and integrates it with a database.  
-- *Technologies Used:* OpenCV, TensorFlow, Python, Flask, MySQL  
-
-### [ATHLETISCAN](https://github.com/yourusername/Athletiscan)
-A machine learning model designed to classify different sports personalities based on facial features.  
-- *Technologies Used:* TensorFlow, OpenCV, Python, Deep Learning  
-
-### [House Price Prediction](https://github.com/yourusername/House-Price-Prediction)
-A machine learning model to predict house prices based on various features.  
-- *Technologies Used:* Scikit-learn, Pandas, NumPy, Regression Models, Python 
+* [cite_start]Built a **RAG chatbot** using LangChain and OpenAI, which successfully reduced query resolution time by **40%**[cite: 15].
+* [cite_start]Designed and deployed **RESTful APIs** using Flask to serve ML models, ensuring scalable backend integration[cite: 16].
+* [cite_start]Optimized data preprocessing pipelines using **Pandas and NumPy** for datasets exceeding 100,000 records, significantly improving training efficiency[cite: 17].
 
 ---
 
-## 🏆 Achievements
-- Solved *300+ coding questions* on LeetCode (Java). [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushagra_tiwari2803)
-- *5-star ratings* in Problem-Solving and Java on HackerRank. [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/CSAI_1520095)
+## 💻 Key Projects
 
-## 📜 Certifications  
+### [cite_start]🌟 Elysium AΙ (GenAI Platform with Custom LLM and Multi-Model Routing) [cite: 19, 20]
+* [cite_start]**Custom LLM:** Implemented the Elysium LLM, a GPT-style architecture featuring tokenization, embeddings, **causal self-attention**, stacked transformer blocks, and **causal masking** in PyTorch[cite: 23].
+* [cite_start]**Multi-LLM Router:** Engineered a router to intelligently switch between Groq, Gemini, Ollama, and Hugging Face based on **task latency**[cite: 24].
+* [cite_start]**Deployment & Optimization:** Deployed 5 GenAI tools (Quiz Generator, Summarizer, Text-to-Video) [cite: 25] [cite_start]using a **Flask + LangChain backend with a React UI**, reducing median latency by **25%** for 300+ users[cite: 26, 25].
+* [cite_start]*Tech:* PyTorch, Flask, LangChain, Hugging Face Transformers, Diffusers, Groq, Gemini, Ollama, REST APIS [cite: 27]
 
-📜 **[Internship Completion Certification](https://drive.google.com/drive/u/0/folders/1-55XjwMwP_QG2yGygYwK_HS1bNlpG9LK)**  
+### [cite_start]🧠 PsycheTrack (Multimodal Health Analysis in Social Media) [cite: 28, 29]
+* [cite_start]**Multimodal System:** Engineered a system integrating **NLP (text)**, **MFCC audio detection**, and **CNN facial classifiers**[cite: 32].
+* [cite_start]**Accuracy:** Achieved high classification accuracy: 92% (text), 90% (audio), and 88% (visual)[cite: 33].
+* [cite_start]**Robustness:** Fused text, audio, and image features to boost overall robustness by **25%** over baseline models, enabling consistent detection of stress and mood variations[cite: 34].
+* [cite_start]*Tech:* Python, TensorFlow, Keras, Librosa, OpenCV, Scikit-Learn [cite: 35]
 
-📜 **[Object Oriented Programming using Python](https://drive.google.com/file/d/1rlPEhGVQWgXm__Ckj-RI3ejXPIUUF5BB/view?usp=drive_link)**  
+### [cite_start]⚾ Athletiscan (Sports Celebrity Classification System - 92% Accuracy) [cite: 36, 37]
+* [cite_start]**Feature Engineering:** Synthesized raw image pixels with **wavelet-transformed features** to optimize feature extraction[cite: 41].
+* [cite_start]**Performance:** Trained an **SVM classifier** on 1,000+ images; reduced misclassification by **50%** using the wavelet-enhanced features[cite: 42].
+* [cite_start]**Deployment Prep:** Serialized the trained model via **Joblib** for efficient real-time prediction deployment[cite: 43].
+* [cite_start]*Tech:* Python, OpenCV, Scikit-learn, NumPy, Joblib, Haar Cascades, Wavelet Transforms, SVM [cite: 44]
 
-📜 **[Python Infosys Certification (Part 1)](https://drive.google.com/file/d/1xgV8GKB1qinWrRbCxY08PzIAh0VwbvOB/view?usp=drive_link)**  
+---
 
-📜 **[Python Infosys Certification (Part 2)](https://drive.google.com/file/d/1OsMOlwCx7KcjOAH7IiaKyiIOLthErD9r/view?usp=drive_link)**  
+## 🚀 Technical Skills
 
-🖼️ **Udemy Python Certificate:**  
-<img src="https://drive.google.com/uc?export=view&id=1BJHDyrK-V80lgDlnFu1MJrOXOYoXwgei" width="600px">  
+### AI & Model Engineering
+* [cite_start]**Paradigms:** GenAI, LLMs (Pre-training, Fine-tuning), RAG, Transformer Architecture (Attention, MLP) [cite: 48]
+* [cite_start]**Libraries:** PyTorch, TensorFlow, Hugging Face, LangChain, Scikit-learn, Pandas, NumPy, OpenCV [cite: 47]
+* [cite_start]**Frameworks:** Flask, Streamlit [cite: 48]
 
-## 📊 GitHub Stats  
+### Data & Tools
+* **Databases:** MySQL, SQLite; [cite_start]Vector DBs (FAISS/Chroma) [cite: 49]
+* [cite_start]**Languages:** Python, Java, SQL, HTML, CSS [cite: 46]
+* [cite_start]**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab [cite: 50]
 
-[![Kushagracse2803's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushagracse2803)](https://github.com/Kushagracse2803)
-## 📊 Most Used Languages  
+---
 
-🎯 **My Top Programming Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagracse2803&layout=compact&theme=tokyonight&langs_count=8&hide=css,html&include_langs=Java,Python,C)
+## 🏆 Achievements & Certifications
+
+### Coding Proficiency
+* [cite_start]Solved **250+ questions in Java** on LeetCode[cite: 57].
+* [cite_start]Achieved **5-star in Data Structures & Algorithms** on HackerRank[cite: 61].
+* [cite_start]Solved 500+ coding problems across multiple platforms[cite: 62].
+
+### Certifications
+* [cite_start]Python for Data Science, AI & Development [cite: 53]
+* [cite_start]Data Science, ML, DL, NLP Bootcamp [cite: 54]
+* [cite_start]Gen AI Foundational Models for NLP [cite: 55]
+* [cite_start]Gen AI: Language Modeling with Transformers [cite: 60]
 
 ---
 
 ## 🌐 Connect with Me
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white" height="50">
-</a>
 
----
-
-Thank you for visiting my profile! 🌟 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
+* [cite_start]**GitHub:** [Kushagracse2803](https://github.com/Kushagracse2803) [cite: 5]
+* [cite_start]**LinkedIn:** [kushagra-tiwari-a695a0268/](https://www.linkedin.com/in/kushagra-tiwari-a695a0268/) [cite: 4]
